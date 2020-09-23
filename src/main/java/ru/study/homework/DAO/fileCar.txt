@@ -1,0 +1,4 @@
+2;Ford;Mondeo;
+3;Nissan;X-Trail;
+4;KIA;RIO;
+1;Lada;Granta;

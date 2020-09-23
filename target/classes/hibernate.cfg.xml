@@ -1,0 +1,32 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- JDBC Database connection settings -->
+        <property name="connection.driver_class">org.mariadb.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mariadb://localhost:3306/Base_For_Spring</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password"></property>
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MariaDBDialect</property>
+
+<!--        <property name="hbm2ddl.auto">create-drop</property>-->
+        <property name="hbm2ddl.auto">update</property>
+<!--        <mapping class="ru.study.lesson.hibernate.ex1.Tovar"/>-->
+<!--        <mapping class="ru.study.lesson.hibernate.ex1.Sklad"/>-->
+<!--        <mapping class="ru.study.lesson.hibernate.ex2_relation.one_to_many.Book"/>-->
+<!--        <mapping class="ru.study.lesson.hibernate.ex2_relation.one_to_many.Library"/>-->
+<!--        <mapping class="ru.study.lesson.hibernate.ex2_relation.one_to_one.Car"/>-->
+<!--        <mapping class="ru.study.lesson.hibernate.ex2_relation.one_to_one.GosNumber"/>-->
+<!--        <mapping class="ru.study.lesson.hibernate.ex2_relation.many_to_many.Prepod"/>-->
+<!--        <mapping class="ru.study.lesson.hibernate.ex2_relation.many_to_many.Student"/>-->
+<!--        <mapping class="ru.study.lesson.dao_pattern.model.Passport"/>-->
+<!--        <mapping class="ru.study.lesson.dao_pattern.model.User"/>-->
+<!--        <mapping class="ru.study.homework.DAO.model.Book"/>-->
+<!--        <mapping class="ru.study.lesson.spring.ex2_dao.model.Book"/>-->
+<!--        <mapping class="ru.study.homework.DAO.model.Car"/>-->
+        <mapping class="ru.study.homework.spring.model.Car"/>
+
+    </session-factory>
+</hibernate-configuration>

@@ -1,0 +1,4 @@
+1;Voina I Mir;L. Tolstoy;
+2;Prestuplenie I Nakazanie;F. Dostoevskiy;
+3;Oblomov;I. Goncharov;
+4;Nos;N. Gogol;

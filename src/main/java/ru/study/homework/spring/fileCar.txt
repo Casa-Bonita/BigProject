@@ -1,0 +1,12 @@
+1;Renault;Logan;10000
+2;KIA;Optima;15000
+3;AvtoVAZ;Vesta;20000
+4;Ford;Focus;25000
+1;Renault;Logan;10000
+2;KIA;Optima;15000
+3;AvtoVAZ;Vesta;20000
+4;Ford;Focus;25000
+1;Renault;Logan;10000
+2;KIA;Optima;15000
+3;AvtoVAZ;Vesta;20000
+4;Ford;Focus;25000

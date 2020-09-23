@@ -1,0 +1,8 @@
+500;Moskva-Petushki;Erofeev
+700;Voyna I Mir;Tolstoy
+800;Igrok;Dostoevskiy
+300;Oblomov;Goncharov
+600;Otsy I Deti;Turgenev
+400;Otes Gorio;Balzak
+200;Doctor Zhivago;Pasternak
+900;Master I Margarita;Bulgakov

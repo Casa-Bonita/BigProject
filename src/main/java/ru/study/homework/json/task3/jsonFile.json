@@ -1,0 +1,31 @@
+{
+  "name": "Ivan",
+  "surname": "Ivanov",
+  "birthDate": "10.10.2010",
+  "cards": [
+    {
+      "cardNum": "1234567890123456",
+      "cardStatus": "+",
+      "validTill": "11/20",
+      "product": "VISA"
+    },
+    {
+      "cardNum": "2234567890128567",
+      "cardStatus": "H",
+      "validTill": "12/20",
+      "product": "VISA GOLD"
+    },
+    {
+      "cardNum": "3234567890121687",
+      "cardStatus": "X",
+      "validTill": "12/21",
+      "product": "MC STANDARD"
+    },
+    {
+      "cardNum": "4234567890123456",
+      "cardStatus": "X",
+      "validTill": "12/21",
+      "product": "MAESTRO"
+    }
+  ]
+}

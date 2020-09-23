@@ -1,0 +1,17 @@
+{
+  "name": "Garvard",
+  "student": [
+    {
+      "studentName": "Ivan",
+      "age": 20
+    },
+    {
+      "studentName": "Petr",
+      "age": 30
+    },
+    {
+      "studentName": "Semen",
+      "age": 25
+    }
+  ]
+}
