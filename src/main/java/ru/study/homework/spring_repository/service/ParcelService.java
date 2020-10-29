@@ -35,8 +35,8 @@ public class ParcelService {
         return parcelRepository.getParcelByParcelName(name);
     }
 
-    public Parcel getParcelByNameAndReceip(String name, String receip){
-        return parcelRepository.getParcelByParcelNameAndRecipientName(name, receip);
+    public Parcel getParcelByNameAndReceip(String inputName, String inputRecipientName){
+        return parcelRepository.getParcelByParcelNameAndRecipientName(inputName, inputRecipientName);
     }
 
 

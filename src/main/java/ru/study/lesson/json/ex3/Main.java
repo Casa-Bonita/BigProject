@@ -19,7 +19,7 @@ public class Main {
         String jsonString = jsonObject.toJSONString();
         System.out.println(jsonString);
         try(Writer writer = new FileWriter("src/main/java/ru/study/lesson/json/ex3/jsonFile.json")){
-            writer.write(jsonString);;
+            writer.write(jsonString);
             writer.close();
         }catch(Exception e){
             System.out.println(e);

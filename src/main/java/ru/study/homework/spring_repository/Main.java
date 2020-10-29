@@ -29,25 +29,25 @@ public class Main {
         ParcelService service = context.getBean(ParcelService.class);
 
         String input = "";
-        while(!input.equals("6")){
+        while(!input.equals("7")){
             System.out.println("1. Create.");
             System.out.println("2. Read.");
             System.out.println("3. Read By Id.");
             System.out.println("4. Update.");
             System.out.println("5. Delete.");
-            System.out.println("6. Exit.");
-            System.out.println("7. Get parcel by name and receip.");
+            System.out.println("6. Get parcel by name and receip.");
+            System.out.println("7. Exit.");
 
             input = scn.nextLine();
             if(input.equals("1")){
                 System.out.println("1. Create.");
 
-                service.save(new Parcel("parcel_1", "Ivan", "Moscow"));
-                service.save(new Parcel("parcel_2", "Oleg", "Rostov"));
-                service.save(new Parcel("parcel_3", "Marina", "Samara"));
-                service.save(new Parcel("parcel_4", "Olga", "Irkutsk"));
-                service.save(new Parcel("parcel_5", "Petr", "Tomsk"));
-                service.save(new Parcel("parcel_6", "Elena", "Krasnodar"));
+                service.save(new Parcel("parcel_1", "Moscow","Ivan"));
+                service.save(new Parcel("parcel_2", "Rostov", "Oleg"));
+                service.save(new Parcel("parcel_3", "Samara", "Marina"));
+                service.save(new Parcel("parcel_4", "Irkutsk", "Olga"));
+                service.save(new Parcel("parcel_5", "Tomsk", "Petr"));
+                service.save(new Parcel("parcel_6", "Krasnodar", "Elena"));
                 listParcel = service.getAll();
             }
 
@@ -156,15 +156,18 @@ public class Main {
             }
 
             else if(input.equals("6")){
-                System.out.println("6. Exit.");
-
-            }else if(input.equals("7")){
-                System.out.println("Enter name");
-                String name = scn.nextLine();
-                System.out.println("Enter receip");
-                String receip = scn.nextLine();
-                final Parcel parcel = service.getParcelByNameAndReceip(name, receip);
+                System.out.println("Enter name:");
+                String inputName = scn.nextLine();
+                System.out.println("Enter RecipientName:");
+                String inputRecipientName = scn.nextLine();
+                final Parcel parcel = service.getParcelByNameAndReceip(inputName, inputRecipientName);
                 System.out.println(parcel.getParcelName()+" "+parcel.getRecipientName());
+                System.out.printf("%-20s %-20s %n", parcel.getParcelName(), parcel.getRecipientName());
+
+            }
+
+            else if(input.equals("7")){
+                System.out.println("7. Exit.");
 
             }
 

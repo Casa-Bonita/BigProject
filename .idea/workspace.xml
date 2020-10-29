@@ -1,633 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c2740327-18c6-46a9-b249-f3fc2bba3da1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/e4c8e704-b33e-46da-9435-f008c97692f3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/e4c8e704-b33e-46da-9435-f008c97692f3/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_17_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LessonBigProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LessonBigProject/META-INF/LessonBigProject.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/InputBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/InputCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/dao/BookDao_FileImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/dao/BookDao_JPAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/dao/CarDao_FileImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/dao/CarDao_JPAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/dao/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/fileBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/fileCar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/service/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/DAO/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/atomic/task1/DishWasher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/atomic/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/atomic/task1/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/atomic/task2/GeneratingSMS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/atomic/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/atomic/task2/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/callable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/callable/Povar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/differenttasks/task1/HealthLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/differenttasks/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/differenttasks/task1/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/differenttasks/task1/Warrior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/differenttasks/task1/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/differenttasks/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/differenttasks/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/differenttasks/task3/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/inputoutput/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/inputoutput/Presidents.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/inputoutput/PresidentsInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/inputoutput/PresidentsOutput.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/inputoutput/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/inputoutput/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/inputoutput/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/java8/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/java8/task2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/java8/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/java8/task2/fileTask2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/java8/task3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/java8/task3/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/java8/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/java8/task3/fileTask3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task3/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task3/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task3/jsonFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task6/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task6/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task6/Pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/json/task6/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task1/MyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task1/MyReaderWriterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task1/MyWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task1/data1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task1/data2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task1/data3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task1/data4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task2/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task2/MyThreadSubtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task2/MyThreadSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task2/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task3/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task3/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task3/MyThread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task3/MyThread4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task4/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/multithreading/task4/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task1/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task1/WorkerSingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/BranchLondon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/BranchParis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/CallCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/ComplaintCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/pattern/task2/ThanksCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/rosalind/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/rosalind/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/rosalind/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/InputCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/dao/CarDao_FileImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/dao/CarDao_JPAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/dao/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/fileCar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/service/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/entity/Parcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/repository/ParcelRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/service/ParcelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/sql/hw1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/sql/hw1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/sql/hw2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task3/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/CreatingSourceData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/ReadAndCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/WriteResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/in_1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/in_2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/in_3.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/in_4.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/in_5.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/in_6.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/synchro/task4/out.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/abstract_classes/MainAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/abstract_classes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/abstract_classes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/abstract_classes/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/dao/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/dao/PassportDaoArrayListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/dao/PassportDaoHibernateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/dao/UserDaoArrayListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/dao/UserDaoHibernateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/model/Passport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/service/PassportService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/dao_pattern/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/date/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/date/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/exception/example1/InvalidValueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/exception/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/exception/practice1/InvalidSignException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/exception/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/example1/MainExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/example1/SuperContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/example2/MainExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/example2/SimpleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/example3/MainGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/example3/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/example4/MainExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/example4/SuperSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/practice1/MainPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/generics/practice1/SuperContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex1/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex1/Sklad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex1/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/many_to_many/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/many_to_many/Prepod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/many_to_many/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/one_to_many/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/one_to_many/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/one_to_many/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/one_to_one/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/one_to_one/GosNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/hibernate/ex2_relation/one_to_one/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/interface_lesson/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/interface_lesson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/interface_lesson/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/interface_lesson/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/interface_lesson/TransportBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/interface_lesson/TransportSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/example2/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/example2/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/example3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/example3/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/example4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/practice1/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/io/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/iterator/MainIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/iterator/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/method_link/ex1/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/method_link/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/method_link/practice1/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/method_link/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/method_link/practice1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex3/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex3/MapService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex4/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex5/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/stream/ex5/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex1/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex1/jsonFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex2/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex2/jsonFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex3/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex3/jsonFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/practice1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/practice1/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/practice1/jsonFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/lymdaExpression/example1/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/lymdaExpression/example1/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/lymdaExpression/example1/CalcWithReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/lymdaExpression/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/lymdaExpression/example2/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/lymdaExpression/example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example10_synchronizedCollections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example10_synchronizedCollections/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example11_callable/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example12_singlePool/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example12_singlePool/example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example12_singlePool/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example3_join/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example4_yield/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example5_synchronized/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example6_synchronized/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example7_synchronized/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example8_volitile/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/multithread/example9_atomic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/nio2/example1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/nio2/example1/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/pattern/singlton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/pattern/singlton/ShopMoscow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/pattern/singlton/ShopSamara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/pattern/singlton/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/pattern/singlton/TovarStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/recursion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/regular_expression/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex1/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex1/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/InputBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/dao/BookDao_FileImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/dao/BookDao_JPAImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/dao/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex3_repository/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex3_repository/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex3_repository/entity/Passport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex3_repository/repo/PassportRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex3_repository/service/PassportService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/practice1/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/practice1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/practice1/StoreArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/practice1/StoreLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/sql/example1_select/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/sql/example1_select/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/sql/example2_insert/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/sql/example3_update_delete/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/sql/example4_primaryKey/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/sql/mariadb-java-client-2.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/sql/practice1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/sql/practice1/Tovar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/static_notstatic_block/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/static_notstatic_block/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/static_notstatic_block/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/string_builder_theme/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/LessonBigProject.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/InputBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/InputCar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/dao/BookDao_FileImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/dao/BookDao_JPAImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/dao/CarDao_FileImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/dao/CarDao_JPAImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/dao/DAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/model/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/model/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/service/BookService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/service/CarService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/DAO/util/HibernateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/atomic/task1/DishWasher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/atomic/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/atomic/task1/Plate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/atomic/task2/GeneratingSMS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/atomic/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/atomic/task2/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/callable/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/callable/Povar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/differenttasks/task1/HealthLevel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/differenttasks/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/differenttasks/task1/Player.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/differenttasks/task1/Warrior.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/differenttasks/task1/Wizard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/differenttasks/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/differenttasks/task3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/differenttasks/task3/Operations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/inputoutput/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/inputoutput/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/inputoutput/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/inputoutput/PresidentsInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/java8/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/java8/task2/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/java8/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/java8/task3/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/java8/task3/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/java8/task3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task3/Card.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task3/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task5/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task6/Convert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task6/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task6/Operations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task6/Pow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/json/task6/Print.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task1/MyReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task1/MyReaderWriterService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task1/MyWriter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task2/DataSource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task2/MyThreadSubtraction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task2/MyThreadSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task2/Operations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task3/MyThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task3/MyThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task3/MyThread3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task3/MyThread4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/multithreading/task4/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task1/Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/BranchLondon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/BranchParis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/Call.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/CallCenter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/ComplaintCall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/Plant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/pattern/task2/ThanksCall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/rosalind/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/rosalind/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/rosalind/task3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/InputCar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/config/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/dao/CarDao_FileImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/dao/CarDao_JPAImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/dao/DAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/model/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/service/CarService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring/util/HibernateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/entity/Parcel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/repository/ParcelRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/service/ParcelService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/sql/hw1/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/sql/hw1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/sql/hw2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/synchro/task1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/synchro/task2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/synchro/task3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/synchro/task3/Operation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/synchro/task4/CreatingSourceData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/synchro/task4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/synchro/task4/ReadAndCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/synchro/task4/WriteResults.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/abstract_classes/MainAbstract$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/abstract_classes/MainAbstract.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/abstract_classes/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/abstract_classes/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/abstract_classes/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/dao/Dao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/dao/PassportDaoArrayListImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/dao/PassportDaoHibernateImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/dao/UserDaoArrayListImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/dao/UserDaoHibernateImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/model/Passport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/service/PassportService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/dao_pattern/util/HibernateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/date/example1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/date/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/exception/example1/InvalidValueException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/exception/example1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/exception/practice1/InvalidSignException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/exception/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example1/MainExample1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example1/SuperContainer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example2/MainExample2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example2/SimpleClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example3/MainGenerics.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example3/MyLinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example3/MyLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example4/MainExample4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/example4/SuperSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/practice1/MainPractice1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/generics/practice1/SuperContainer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex1/HibernateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex1/Sklad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex1/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/HibernateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/many_to_many/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/many_to_many/Prepod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/many_to_many/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/one_to_many/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/one_to_many/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/one_to_many/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/one_to_one/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/one_to_one/GosNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/hibernate/ex2_relation/one_to_one/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/interface_lesson/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/interface_lesson/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/interface_lesson/Plane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/interface_lesson/Transport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/interface_lesson/TransportBack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/interface_lesson/TransportSuper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/io/example1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/io/example2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/io/example2/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/io/example3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/io/example4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/io/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/iterator/MainIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/iterator/MyLinkedList$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/iterator/MyLinkedList$MyIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/iterator/MyLinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/iterator/MyLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/method_link/ex1/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/method_link/ex1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/method_link/practice1/Greeting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/method_link/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/method_link/practice1/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex2/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex3/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex3/MapService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex3/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex4/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex4/University.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex5/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex5/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/java8/stream/ex5/Shop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/ex1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/ex1/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/ex2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/ex2/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/ex3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/ex3/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/practice1/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/json/practice1/University.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/lymdaExpression/example1/Action.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/lymdaExpression/example1/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/lymdaExpression/example1/CalcWithReturn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/lymdaExpression/example1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/lymdaExpression/example2/Greeting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/lymdaExpression/example2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example1/MyThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example10_synchronizedCollections/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example10_synchronizedCollections/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example10_synchronizedCollections/practice1/Counter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example10_synchronizedCollections/practice1/Lorry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example10_synchronizedCollections/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example10_synchronizedCollections/practice1/Sklad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example11_callable/example1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example11_callable/example1/MyCallable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example12_singlePool/example1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example12_singlePool/example1/MyCallable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example12_singlePool/example2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example12_singlePool/example2/MyRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example12_singlePool/practice1/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example12_singlePool/practice1/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example12_singlePool/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example12_singlePool/practice1/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example3_join/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example4_yield/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example5_synchronized/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example5_synchronized/Wrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example6_synchronized/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example6_synchronized/Wrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example7_synchronized/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example7_synchronized/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example7_synchronized/WrapperI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example8_volitile/Main$MyThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example8_volitile/Main$MyThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example8_volitile/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example8_volitile/WrapperI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example9_atomic/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/multithread/example9_atomic/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/nio2/example1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/pattern/singlton/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/pattern/singlton/ShopMoscow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/pattern/singlton/ShopSamara.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/pattern/singlton/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/pattern/singlton/TovarStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/recursion/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/regular_expression/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex1/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex1/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex1/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/InputBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/config/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/dao/BookDao_FileImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/dao/BookDao_JPAImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/dao/DAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/model/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/service/BookService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex2_dao/util/HibernateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex3_repository/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex3_repository/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex3_repository/entity/Passport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex3_repository/repo/PassportRepo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex3_repository/service/PassportService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/practice1/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/practice1/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/practice1/StoreArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/practice1/StoreLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/sql/example1_select/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/sql/example1_select/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/sql/example2_insert/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/sql/example3_update_delete/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/sql/example4_primaryKey/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/sql/practice1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/sql/practice1/Tovar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/static_notstatic_block/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/static_notstatic_block/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/static_notstatic_block/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/string_builder_theme/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/string_builder_theme/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/string_builder_theme/Subject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/string_builder_theme/University.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/repository/ParcelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/repository/ParcelRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/service/ParcelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/service/ParcelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/LessonBigProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/repository/ParcelRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/repository/ParcelRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/service/ParcelService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/service/ParcelService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -677,26 +65,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1WwTyvksmqMB9moWGp3A8lfK2Hs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ru/study/lesson/spring/ex2_dao" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="ignore.preview.features.used" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nikita_Study" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1150748" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -810,11 +199,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.multithread.example1.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.differenttasks.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.study.lesson.multithread.example1.*" />
+          <option name="PATTERN" value="ru.study.homework.differenttasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -828,6 +217,45 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.study.lesson.multithread.example10_synchronizedCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.multithread.example5_synchronized.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.lesson.multithread.example5_synchronized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.multithread.example1.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.lesson.multithread.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.pattern.task2.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.pattern.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -854,45 +282,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.study.homework.atomic.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.pattern.task2.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.pattern.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.inputoutput.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.inputoutput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.java8.task2.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.java8.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -940,6 +329,45 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.java8.task2.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.java8.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.inputoutput.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.inputoutput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.callable.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.callable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.study.lesson.multithread.example4_yield.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
@@ -966,11 +394,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.callable.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.sql.example3_update_delete.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.study.homework.callable.*" />
+          <option name="PATTERN" value="ru.study.lesson.sql.example3_update_delete.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1004,75 +432,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.sql.example3_update_delete.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.lesson.sql.example3_update_delete.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.differenttasks.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.differenttasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.multithread.example5_synchronized.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.lesson.multithread.example5_synchronized.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -1099,10 +477,6 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="241" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592069669817">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="552" y="241" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1592069669817" />
     <state x="765" y="298" key="#com.intellij.ide.util.MemberChooser" timestamp="1600108255068">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1123,26 +497,26 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="315" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1597687080599" />
-    <state x="740" y="337" key="FileChooserDialogImpl" timestamp="1600107244858">
+    <state x="740" y="337" key="FileChooserDialogImpl" timestamp="1602986394308">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="740" y="337" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1600107244858" />
-    <state width="1877" height="376" key="GridCell.Tab.0.bottom" timestamp="1600796828571">
+    <state x="740" y="337" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1602986394308" />
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom" timestamp="1602464891872">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828571" />
-    <state width="1877" height="376" key="GridCell.Tab.0.center" timestamp="1600796828569">
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1602464891872" />
+    <state width="1877" height="200" key="GridCell.Tab.0.center" timestamp="1602464891872">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="376" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828569" />
-    <state width="1877" height="376" key="GridCell.Tab.0.left" timestamp="1600796828569">
+    <state width="1877" height="200" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1602464891872" />
+    <state width="1877" height="200" key="GridCell.Tab.0.left" timestamp="1602464891872">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="376" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828569" />
-    <state width="1877" height="376" key="GridCell.Tab.0.right" timestamp="1600796828570">
+    <state width="1877" height="200" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1602464891872" />
+    <state width="1877" height="200" key="GridCell.Tab.0.right" timestamp="1602464891872">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="376" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828570" />
+    <state width="1877" height="200" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1602464891872" />
     <state width="1877" height="376" key="GridCell.Tab.1.bottom" timestamp="1600796828408">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1159,17 +533,13 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="376" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828408" />
-    <state x="440" y="157" key="SettingsEditor" timestamp="1600108326448">
+    <state x="440" y="157" key="SettingsEditor" timestamp="1602723686482">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="440" y="157" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600108326448" />
-    <state x="826" y="465" width="319" height="229" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1592072457983">
+    <state x="440" y="157" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1602723686482" />
+    <state x="342" y="284" key="new project wizard" timestamp="1602724770255">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="826" y="465" width="319" height="229" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1160@0.0.1920.1160" timestamp="1592072457983" />
-    <state x="676" y="230" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1592072455072">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="676" y="230" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1592072455072" />
+    <state x="342" y="284" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1602724770255" />
   </component>
 </project>

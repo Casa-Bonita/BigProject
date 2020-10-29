@@ -8,6 +8,6 @@ import java.util.List;
 public interface ParcelRepository extends CrudRepository <Parcel, Integer> {
     //named query
     List<Parcel> getParcelByParcelName(String name);
-    Parcel getParcelByParcelNameAndRecipientName(String name, String receip);
+    Parcel getParcelByParcelNameAndRecipientName(String inputName, String inputRecipientName);
 
 }
