@@ -41,7 +41,6 @@ public class Main {
             input = scn.nextLine();
             if(input.equals("1")){
                 System.out.println("1. Create.");
-
                 service.save(new Parcel("parcel_1", "Moscow","Ivan"));
                 service.save(new Parcel("parcel_2", "Rostov", "Oleg"));
                 service.save(new Parcel("parcel_3", "Samara", "Marina"));

@@ -5,17 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2740327-18c6-46a9-b249-f3fc2bba3da1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/addition_theme/Collections/task1/MainUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/addition_theme/Collections/task1/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/addition_theme/Comparable/task1/MainUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/enum_lesson/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/enum_lesson/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/enum_lesson/WeekPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/optional/ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/optional/ex1/Tovar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/optional/ex2_postmail/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/optional/ex2_postmail/Parcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/optional/ex2_postmail/ParcelGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/optional/ex2_postmail/PostMail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/java8/optional/ex3_many_if_blocks/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonBigProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LessonBigProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/repository/ParcelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/repository/ParcelRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/service/ParcelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/service/ParcelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/json/ex3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/LessonBigProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/entity/Parcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/homework/spring_repository/entity/Parcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/study/lesson/recursion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/study/lesson/recursion/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/repository/ParcelRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/repository/ParcelRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/entity/Parcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/entity/Parcel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/service/ParcelService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/homework/spring_repository/service/ParcelService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/study/lesson/recursion/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/recursion/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex3_repository/entity/Passport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/study/lesson/spring/ex3_repository/entity/Passport.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +77,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1WwTyvksmqMB9moWGp3A8lfK2Hs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -79,40 +85,41 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.preview.features.used" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nikita_Study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unit" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1150748" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Home\IdeaProjects\LessonBigProject\src\main\java\ru\study\lesson\json\ex1" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="ru.study.lesson.hibernate.ex2_relation" />
-      <recent name="ru.study.lesson.java8.stream.ex4" />
-      <recent name="ru.study.lesson.java8.stream.ex3" />
-      <recent name="ru.study.lesson.json.ex3" />
-      <recent name="ru.study.lesson.json.ex2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Home\IdeaProjects\LessonBigProject\src\main\java\ru\study\lesson\spring\ex2_dao" />
       <recent name="C:\Users\Home\IdeaProjects\LessonBigProject\src\main\java\ru\study\lesson\spring" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\IdeaProjects\LessonBigProject\src\main\java\ru\study\lesson\json\ex1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.study.homework.addition_theme.Comparable.task1" />
+      <recent name="ru.study.homework.addition_theme.Collections.task1" />
+      <recent name="ru.study.lesson.hibernate.ex2_relation" />
+      <recent name="ru.study.lesson.java8.stream.ex4" />
+      <recent name="ru.study.lesson.java8.stream.ex3" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.spring_repository.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.addition_theme.Collections.task2.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.study.homework.spring_repository.*" />
+          <option name="PATTERN" value="ru.study.homework.addition_theme.Collections.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,24 +128,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.spring.practice1.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.addition_theme.Comparable.task2.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.study.lesson.spring.practice1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.spring.ex2_dao.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.lesson.spring.ex2_dao.*" />
+          <option name="PATTERN" value="ru.study.homework.addition_theme.Comparable.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +141,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.spring.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.addition_theme.Collections.task1.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.study.homework.spring.*" />
+          <option name="PATTERN" value="ru.study.homework.addition_theme.Collections.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +154,128 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.spring.ex3_repository.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.addition_theme.Collections.task3.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.study.lesson.spring.ex3_repository.*" />
+          <option name="PATTERN" value="ru.study.homework.addition_theme.Collections.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.addition_theme.Collections.task4.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.addition_theme.Collections.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.addition_theme.Collections.task1.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.addition_theme.Collections.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.inputoutput.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.inputoutput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.addition_theme.Comparable.task1.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.addition_theme.Comparable.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.java8.task2.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.java8.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.java8.task1.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.java8.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.multithreading.task3.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.multithreading.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.multithread.example4_yield.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.lesson.multithread.example4_yield.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.sql.example3_update_delete.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.lesson.sql.example3_update_delete.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +297,37 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.multithreading.task3.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.lymdaExpression.example1.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.study.homework.multithreading.task3.*" />
+          <option name="PATTERN" value="ru.study.lesson.lymdaExpression.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.inputoutput.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.inputoutput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.spring.ex3_repository.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.lesson.spring.ex3_repository.repo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,6 +388,19 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.callable.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.callable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.study.homework.pattern.task2.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
@@ -264,11 +414,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.multithreading.task2.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.java8.optional.ex1.Main" />
       <module name="LessonBigProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.study.homework.multithreading.task2.*" />
+          <option name="PATTERN" value="ru.study.lesson.java8.optional.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.study.homework.DAO.Main" />
+      <module name="LessonBigProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.study.homework.DAO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,151 +465,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.inputoutput.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.inputoutput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.DAO.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.DAO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.java8.task2.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.java8.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.inputoutput.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.inputoutput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.callable.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.callable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.multithread.example4_yield.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.lesson.multithread.example4_yield.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.homework.java8.task1.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.homework.java8.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.sql.example3_update_delete.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.lesson.sql.example3_update_delete.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.lymdaExpression.example1.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.lesson.lymdaExpression.example1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.study.lesson.spring.ex3_repository.Main" />
-      <module name="LessonBigProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.study.lesson.spring.ex3_repository.repo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -470,76 +502,31 @@
       <workItem from="1598397856256" duration="14000" />
       <workItem from="1600649615150" duration="31000" />
       <workItem from="1600796984796" duration="15000" />
+      <workItem from="1614650431757" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="765" y="298" key="#com.intellij.ide.util.MemberChooser" timestamp="1600108255068">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="765" y="298" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1600108255068" />
-    <state x="697" y="271" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600796972547">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="697" y="271" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1600796972547" />
-    <state x="550" y="509" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600796015371">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="550" y="509" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1600796015371" />
-    <state x="745" y="449" width="519" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600796320634">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="745" y="449" width="519" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1160@0.0.1920.1160" timestamp="1600796320634" />
-    <state x="315" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597687080599">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="315" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1597687080599" />
-    <state x="740" y="337" key="FileChooserDialogImpl" timestamp="1602986394308">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="740" y="337" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1602986394308" />
-    <state width="1877" height="200" key="GridCell.Tab.0.bottom" timestamp="1602464891872">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1602464891872" />
-    <state width="1877" height="200" key="GridCell.Tab.0.center" timestamp="1602464891872">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="200" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1602464891872" />
-    <state width="1877" height="200" key="GridCell.Tab.0.left" timestamp="1602464891872">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="200" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1602464891872" />
-    <state width="1877" height="200" key="GridCell.Tab.0.right" timestamp="1602464891872">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="200" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1602464891872" />
-    <state width="1877" height="376" key="GridCell.Tab.1.bottom" timestamp="1600796828408">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828408" />
-    <state width="1877" height="376" key="GridCell.Tab.1.center" timestamp="1600796828407">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="376" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828407" />
-    <state width="1877" height="376" key="GridCell.Tab.1.left" timestamp="1600796828407">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="376" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828407" />
-    <state width="1877" height="376" key="GridCell.Tab.1.right" timestamp="1600796828408">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="376" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1600796828408" />
-    <state x="440" y="157" key="SettingsEditor" timestamp="1602723686482">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="440" y="157" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1602723686482" />
-    <state x="342" y="284" key="new project wizard" timestamp="1602724770255">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="342" y="284" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1602724770255" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/study/lesson/enum_lesson/Week.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/study/lesson/recursion/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
